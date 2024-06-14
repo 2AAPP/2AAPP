@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙💙
 
-## Meu nome é Amanda Andrade
+# Meu nome é Amanda Andrade
 
 # Estou estudando na Alura
 # Estou me desenvolvendo na linguagem JavaScript
